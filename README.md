@@ -9,3 +9,5 @@ the Aim of this project is to design a BMS for SLA batteries, there are many BMS
 
 3- sofware defined and the cutoff voltage can be configured by comenicating with the controler.
 
+## structure:
+the project is divided into three sections, analog circuit one, arduino based one and a pic microchip based one.
